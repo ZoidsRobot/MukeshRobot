@@ -70,12 +70,12 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 PM_START_TEX = """
-*ʜᴇʟʟᴏ {} !* [🎉]
+*ʜᴇʟʟᴏ {} !* 
 
 
 
 PM_START_TEXT = """ 
-*ʜᴇʟʟᴏ {} !* 🎉(https://telegra.ph/file/e684d81a846cb6a8369ef.jpg)
+*ʜᴇʟʟᴏ {} !* (https://telegra.ph/file/e684d81a846cb6a8369ef.jpg)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 {} ᴅɪʙᴜᴀᴛ ᴜɴᴛᴜᴋ ᴍᴇɴɢᴇʟᴏʟᴀ ᴅᴀɴ ᴍᴇᴍᴜᴛᴀʀ ᴍᴜꜱɪᴋ ᴅɪɢʀᴜᴘ ᴀɴᴅᴀ ᴅᴇɴɢᴀɴ ʙᴇʀʙᴀɢᴀɪ ꜰɪᴛᴜʀ.
