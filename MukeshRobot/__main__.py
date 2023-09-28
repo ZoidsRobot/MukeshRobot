@@ -69,7 +69,7 @@ def get_readable_time(seconds: int) -> str:
     ping_time += ":".join(time_list)
 
     return ping_time
-PM_START_TEX = """
+    PM_START_TEXT = """
 *ʜᴇʟʟᴏ {} !* (https://telegra.ph/file/e684d81a846cb6a8369ef.jpg)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
@@ -115,7 +115,7 @@ DONATE_STRING = f"""ʜᴇʏ ʙᴀʙʏ,
 
 
 
-PM_START_TEXT = """ 
+ 
 
 IMPORTED = {}
 MIGRATEABLE = []
