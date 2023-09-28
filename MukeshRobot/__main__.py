@@ -212,9 +212,8 @@ def start(update: Update, context: CallbackContext):
             first_name = update.effective_user.first_name
             
             x=update.effective_message.reply_photo
-            (
-                "https://telegra.ph/file/e684d81a846cb6a8369ef.jpg")
-            x.delete()
+           ("https://telegra.ph/file/e684d81a846cb6a8369ef.jpg")
+           
             usr = update.effective_user
             lol = update.effective_message.reply_text(
                 PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
